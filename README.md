@@ -37,7 +37,7 @@
 
 <br/><br/>
 
-[![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uuseless&show_icons=true)](https://github.com/Uuseless)
+[GitHub Stats](https://github-readme-stats.vercel.app/api?username=Uuseless&show_icons=true)](https://github.com/Uuseless)
 
 <br/>
 
