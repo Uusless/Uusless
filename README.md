@@ -6,7 +6,7 @@
 - 💬 I like to learn more and more **Programming languages**
 
 - 🤝 I like to help other people **in my life**
-
+<h3 align="left">Connect with me:</h3>
 
 
 
