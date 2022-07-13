@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Uuseless</h1>
 <h3 align="center">I'm interesting for promming on fivem</h3>
 
+- 🔭 I am still learning **To be able to gain more knowledge**
+
+- 💬 I like to learn more and more **Programming languages**
+
+- 🤝 I like to help other people **in my life**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/use" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="use" height="30" width="40" /></a>
